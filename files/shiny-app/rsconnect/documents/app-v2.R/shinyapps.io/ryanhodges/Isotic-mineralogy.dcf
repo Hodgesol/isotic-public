@@ -1,0 +1,13 @@
+name: Isotic-mineralogy
+title: Isotic-mineralogy
+username: ryanhodges
+account: ryanhodges
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16415566
+bundleId: 11438528
+url: https://ryanhodges.shinyapps.io/Isotic-mineralogy/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|env-raster-conus-stack.rds|env-regression-tree-v2-decision-matrix.R|isotic-env-raster-stack.tif|raster-stack.R

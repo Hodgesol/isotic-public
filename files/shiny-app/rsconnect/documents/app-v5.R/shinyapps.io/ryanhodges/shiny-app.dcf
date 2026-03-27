@@ -1,0 +1,13 @@
+name: shiny-app
+title: shiny-app
+username: ryanhodges
+account: ryanhodges
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16416300
+bundleId: 11439971
+url: https://ryanhodges.shinyapps.io/shiny-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app-v2.R|app-v3.R|app-v4.R|app.R|env-rast-tree-v4.png|env-raster-conus-stack.rds|env-regression-tree-v2-decision-matrix.R|isotic-env-raster-stack.tif|isotic-p-round.tif|raster-stack.R|reproject-raster.R
