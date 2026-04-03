@@ -1,4 +1,4 @@
-Public repo for code associated with isotic manuscripts on soil property (part 1) and environmental raster (part 2) models.
+Public repo for code associated with isotic manuscripts on soil property (part 1) and environmental raster (part 2) models. Part 1 currently under review.
 
 Follow 'project-outline-script.R' for understanding flow sequence of analysis from data acquisition to decision tree development and evaluation. 
 
